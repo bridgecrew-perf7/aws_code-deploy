@@ -1,5 +1,1 @@
-#!/bin/bash
-yum install httpd -y
-echo "<h1> Server to check </h1>"  >> /var/www/html/index.html
-systemctl start httpd
-systemctl enable httpd
+<h1> this is running </h1>
